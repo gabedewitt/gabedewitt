@@ -1,4 +1,7 @@
-### Hello I am Gabriel 👋
+### Hello I am Gabriel 👋 
+
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/gabrielsebastiao)
+&nbsp;
 
 Sou pós-graduado em Ciência de Dados pela Universidade Presbiteriana Mackenzie e busco atuar como Cientista de Dados.
 
