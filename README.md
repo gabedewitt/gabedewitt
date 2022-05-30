@@ -18,7 +18,7 @@ Estou aprendendo:
 
 ![Databricks](https://img.shields.io/badge/Databricks-black?style=flat-square&logo=databricks&logoColor=FF3621)
 ![Apache Spark](https://img.shields.io/badge/ApacheSpark-black?style=flat-square&logo=apachespark&logoColor=E25A1C)
-![ML Flow](https://img.shields.io/badge/MLflow-black?style=flat-square&logo=mlflow&logoColor=0194E2)
+![ML Flow](https://img.shields.io/static/v1?style=flat-square&message=MLflow&color=0194E2&logo=MLflow&logoColor=FFFFFF&label=)
 
 ### Estatísticas do GitHub:
 
