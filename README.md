@@ -12,6 +12,7 @@ As tecnologias com que trabalho são:
 ![Power BI](https://img.shields.io/badge/PowerBI-black?style=flat-square&logo=Power-BI&logoColor=F2C811)
 
 Estou aprendendo: 
+
 ![Databricks](https://img.shields.io/badge/Databricks-black?style=flat-square&logo=databricks&logoColor=FF3621)
 ![Apache Spark](https://img.shields.io/badge/ApacheSpark-black?style=flat-square&logo=apachespark&logoColor=E25A1C)
 ### Estatísticas do GitHub:
