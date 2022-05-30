@@ -11,7 +11,9 @@ As tecnologias com que trabalho são:
 ![R](https://img.shields.io/badge/R-black?style=flat-square&logo=R&logoColor=276DC3)
 ![Power BI](https://img.shields.io/badge/PowerBI-black?style=flat-square&logo=Power-BI&logoColor=F2C811)
 
-
+Estou aprendendo: 
+![Databricks](https://img.shields.io/badge/Databricks-black?style=flat-square&logo=databricks&logoColor=FF3621)
+![Apache Spark](https://img.shields.io/badge/ApacheSpark-black?style=flat-square&logo=apachespark&logoColor=E25A1C)
 ### Estatísticas do GitHub:
 
 [![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabedewitt&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
