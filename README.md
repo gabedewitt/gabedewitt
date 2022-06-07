@@ -7,7 +7,7 @@ Sou pós-graduado em Ciência de Dados pela Universidade Presbiteriana Mackenzie
 
 I am fluent in english and am currently studying japanese.
 
-２０１９年に日本語の勉強が始まりました。でも、ぼくの日本語はまだまだです。
+２０１９年に日本語の勉強が始まりました。でも、僕の日本語はまだまだです。
 
 As tecnologias com que trabalho são: 
 
